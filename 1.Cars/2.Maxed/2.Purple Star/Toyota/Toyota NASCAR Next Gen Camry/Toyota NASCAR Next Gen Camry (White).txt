@@ -576,7 +576,11 @@
       "spqm": 146.042,
       "sphm": 175.516,
       "ctie": "TIER_5",
+<<<<<<< Updated upstream:1.Cars/2.Maxed/2.Purple Star/Toyota/Toyota NASCAR Next Gen Camry/Toyota NASCAR Next Gen Camry (White).txt
       "csrc": "Prize",
+=======
+      "csrc": "IAPSpecial",
+>>>>>>> Stashed changes:1.Cars/Update 4.2.0/2.Maxed/2.Purple Star/Toyota/Toyota NASCAR Next Gen Camry/Toyota NASCAR Next Gen Camry (White).txt
       "nupl": {
         "txt": "",
         "cpf": false
