@@ -114,6 +114,7 @@ BMW_M2G87MPerformance_2023
 BMW_M3E92CoupeGTSElite_2011
 BMW_M3E92CoupeGTSRewardRecycled_2011
 BMW_M3E92CoupeGTSReward_2011
+BMW_M3SportEvoE30_1990
 BMW_M3TouringRewardRecycled_2022
 BMW_M3TouringReward_2022
 BMW_M4CSLRewardRecycled_2022
@@ -372,6 +373,7 @@ Ferrari_SF90StradaleAssettoFioranoF175_2021
 Ferrari_SF90StradaleAssettoFiorano_2021
 Ferrari_SF90StradaleGold_2020
 Ferrari_SF90Stradale_2020
+Ferrari_SF90XXStradale_2024
 FnF_FlipCar_2013
 Ford_Durty30Gold_2016
 Ford_Durty30_2016
@@ -421,6 +423,7 @@ Ford_MustangShelbyGT500RewardRecycled_2019
 Ford_MustangShelbyGT500Reward_2019
 Ford_ROUSHStage3Mustang_2019
 Ford_RingbrothersMustangMach1_1969
+Ford_RoushStage3Mustang_1996
 Ford_ShelbyGT350RElite_2016
 Ford_ShelbyGT350R_2016
 Ford_Supervan4_2022
@@ -652,6 +655,7 @@ McLaren_ElvaGOSH_2021
 McLaren_ElvaGold_2021
 McLaren_ElvaMSO_2021
 McLaren_Elva_2021
+McLaren_F1GT_1997
 McLaren_F1LM_1995
 McLaren_F1_1993
 McLaren_GTRewardRecycled_2020
@@ -730,6 +734,7 @@ Nissan_350ZRocketBunny_2003
 Nissan_GTR50RewardRecycled_2020
 Nissan_GTR50Reward_2020
 Nissan_GTR50_2021
+Nissan_GTRNISMOGT3_2015
 Nissan_GTRNISMORewardRecycled_2024
 Nissan_GTRNISMOReward_2024
 Nissan_GTRNismoCrewRecycled_2017
@@ -817,11 +822,13 @@ Porsche_718SpyderRSRewardRecycled_2024
 Porsche_718SpyderRSReward_2024
 Porsche_911Carrera4SCabrioletRewardRecycled_2020
 Porsche_911Carrera4SCabrioletReward_2020
+Porsche_911GT1StraBenversion_1996
 Porsche_911GT2RSClubSportSalzburg_2019
 Porsche_911GT2RSClubSport_2019
 Porsche_911GT2RSGold_2017
 Porsche_911GT2RSVIP_2017
 Porsche_911GT2RS_2017
+Porsche_911GT2_1993
 Porsche_911GT3RS992Tribute_2023
 Porsche_911GT3RS992_2023
 Porsche_911GT3RSCrewRecycled_2016

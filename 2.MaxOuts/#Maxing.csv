@@ -146,6 +146,7 @@ TIER_4,Audi_RS7SportbackRewardRecycled_2020,T4_5_91_36_32_23.txt,35,3009000,true
 TIER_4,Audi_RS7SportbackReward_2020,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,BMW_LBi8RewardRecycled_2017,T4_5_91_36_32_23.txt,35,3009000,true,true
 TIER_4,BMW_LBi8Reward_2017,T4_5_98_29_40_29.txt,35,3009000,true,true
+TIER_4,BMW_M3SportEvoE30_1990,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,BMW_M4CSLRewardRecycled_2022,T4_5_91_36_32_23.txt,35,3009000,true,true
 TIER_4,BMW_M4CSLReward_2022,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,BMW_M4GTS_2016,T4_5_91_36_32_23.txt,35,3009000,true,true
@@ -204,6 +205,7 @@ TIER_4,Ford_MustangGTHPE750Silver_2015,T4_4_91_36_32_23.txt,35,3009000,true,true
 TIER_4,Ford_MustangGTPremiumBoss_2015,T4_4_68_29_22_17.txt,35,2024600,true,true
 TIER_4,Ford_MustangMachEGTRewardRecycled_2021,T4_5_91_36_32_23.txt,35,3009000,true,true
 TIER_4,Ford_MustangMachEGTReward_2021,T4_5_98_29_40_29.txt,35,3009000,true,true
+TIER_4,Ford_RoushStage3Mustang_1996,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Ford_ShelbyGT350RElite_2016,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Ford_ShelbyGT350R_2016,T4_5_91_36_32_23.txt,35,3009000,true,true
 TIER_4,Honda_AIMGAINGTNSXEvo_2017,T4_5_98_29_40_29.txt,35,3009000,true,true
@@ -554,6 +556,7 @@ TIER_5,Ferrari_SF90StradaleAssettoFioranoF175_2021,T5_5_135_36_50_49.txt,35,5979
 TIER_5,Ferrari_SF90StradaleAssettoFiorano_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Ferrari_SF90StradaleGold_2020,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Ferrari_SF90Stradale_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Ferrari_SF90XXStradale_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,FnF_FlipCar_2013,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Ford_Durty30Gold_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Ford_Durty30_2016,T5_5_128_44_43_41.txt,35,5979000,true,true
@@ -743,6 +746,7 @@ TIER_5,McLaren_ElvaGOSH_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,McLaren_ElvaGold_2021,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,McLaren_ElvaMSO_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,McLaren_Elva_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,McLaren_F1GT_1997,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,McLaren_F1LM_1995,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,McLaren_F1_1993,T5_5_150_37_60_53.txt,35,5979000,true,true
 TIER_5,McLaren_GTRewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true,true
@@ -794,6 +798,7 @@ TIER_5,Nissan_240SXRocketBunnyBossReward_1995,T5_5_135_36_50_49.txt,35,5979000,t
 TIER_5,Nissan_GTR50RewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Nissan_GTR50Reward_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Nissan_GTR50_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Nissan_GTRNISMOGT3_2015,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Nissan_GTRNISMORewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Nissan_GTRNISMOReward_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Nissan_GTRR35BensopraF6_2012,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -852,11 +857,13 @@ TIER_5,Pontiac_RyansFirebirdTransAm_1978,T5_5_135_36_50_49.txt,35,5979000,true,t
 TIER_5,Porsche_718CaymanGT4RS_2022,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Porsche_718SpyderRSRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Porsche_718SpyderRSReward_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Porsche_911GT1StraBenversion_1996,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Porsche_911GT2RSClubSportSalzburg_2019,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Porsche_911GT2RSClubSport_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Porsche_911GT2RSGold_2017,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Porsche_911GT2RSVIP_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Porsche_911GT2RS_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Porsche_911GT2_1993,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Porsche_911GT3RS992Tribute_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Porsche_911GT3RS992_2023,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Porsche_911GT3RSCrewRecycled_2016,T5_4_128_44_43_41.txt,35,5979000,true,true
