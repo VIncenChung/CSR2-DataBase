@@ -58,6 +58,7 @@ MonoBehaviour Base
 			CarVisualsGachaConfig data
 				string gachaLetter = ""
 				int duplicate = 0
+				int PaintID = 937
 				int WrapPaintID = 2147483647
 				int InteriorID = 757
 				int CalliperID = 0
