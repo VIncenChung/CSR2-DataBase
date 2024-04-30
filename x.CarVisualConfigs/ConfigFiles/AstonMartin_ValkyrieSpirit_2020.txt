@@ -1,7 +1,7 @@
 MonoBehaviour Base
 	PPtr<GameObject> m_GameObject
 		int m_FileID = 0
-		SInt64 m_PathID = -3116467791031566420
+		SInt64 m_PathID = 7923435810256790560
 	UInt8 m_Enabled = 1
 	PPtr<MonoScript> m_Script
 		int m_FileID = 0
