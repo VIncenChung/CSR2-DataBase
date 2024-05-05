@@ -1,5 +1,5 @@
 {
-      "unid": 3309,
+      "unid": 7052,
       "crdb": "BMW_M8Competition_2020",
       "awar": false,
       "grsp": [
@@ -12,15 +12,15 @@
         0.823,
         0.64
       ],
-      "fidr": 2.53,
-      "nlpr": 1.0,
+      "fidr": 3.15,
+      "nlpr": 0.5,
       "tafr": 0.5,
       "titp": 0.5,
       "trld": 0.0,
       "tssp": 0.5,
       "tssr": 0.5,
       "ttup": 0.5,
-      "ttpp": 0.0,
+      "ttpp": 0.5,
       "appi": 0,
       "orpi": 0,
       "apiid": 979,
@@ -54,14 +54,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -130,14 +123,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -206,14 +192,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -282,14 +261,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -358,14 +330,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -434,14 +399,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -510,14 +468,7 @@
           "lvlf": 6,
           "lvls": [
             {
-              "ulpf": true,
-              "fsg": [
-                0,
-                0,
-                0,
-                0,
-                0
-              ]
+              "ulpf": true
             },
             {
               "ulpf": true,
@@ -617,8 +568,8 @@
       "fcu": false,
       "pncu": false,
       "cncu": false,
-      "cppi": 714,
-      "cepi": 1909,
+      "cppi": 604,
+      "cepi": 0,
       "tdut": 16.036,
       "tdtt": 16.036,
       "ttqm": 10.377,
@@ -628,7 +579,7 @@
       "spqm": 141.819,
       "sphm": 172.179,
       "ctie": "TIER_5",
-      "csrc": "Prize",
+      "csrc": "Gacha",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -636,7 +587,12 @@
       "esup": true,
       "elcl": 0,
       "gacp": false,
-      "whbn": "",
+      "paid": 1364,
+      "inid": 979,
+      "caid": 8,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D",
       "tlad": 0.0,
       "need": false,
       "cmlv": 0,
