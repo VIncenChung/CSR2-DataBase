@@ -9,7 +9,7 @@ The Project is currently being build and is under high development.<br>
 
 **Community Discord**<br>
 If you found a bug, have ideas on how to improve the project, want to get notified about updates or if you want to help us build the project join our Discord:<br>
-[![](https://cdn.discordapp.com/attachments/904024380370223114/904025176671420466/dc_logo_256x.png)](https://discord.gg/GRepTF4Jv5)<br>
+[![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/dc_logo_256x.png)](https://discord.gg/GRepTF4Jv5)<br>
 
 **Find Files quicker**<br>
 Due to the amount of files this project has it can be quite hard to find the file you need. The solution to this is using the<br> [File-Finder](https://github.com/Nitro4CSR/CSR2-DataBase/find/Everything).<br>
@@ -28,8 +28,8 @@ Due to the amount of files this project has it can be quite hard to find the fil
 3. TheRedBandit & LCN: MaxOut Tool︱Check out their [Website](https://nsb.lcn-innovation.dk/)
 
 ## Latest Update Info
-**Update 5.0.0 OTA1**
-![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.0.0_OTA1.png)
+**Update 5.0.0 OTA2**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.0.0_OTA2.png)
 ## History
 **Update V.3.4.0**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/3.4.0.png)
@@ -120,4 +120,7 @@ Due to the amount of files this project has it can be quite hard to find the fil
 <br>
 **Update 5.0.0**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.0.0.png)
+<br>
+**Update 5.0.0 OTA1**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.0.0_OTA1.png)
 <br>
