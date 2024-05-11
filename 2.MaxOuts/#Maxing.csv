@@ -266,6 +266,8 @@ TIER_4,Mitsubishi_EclipseF1_1995,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Mitsubishi_LancerEVOXTNR_2015,T4_5_108_32_46_30.txt,35,3009000,true,true
 TIER_4,Mitsubishi_LancerEvolutionIXF3_2006,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Mitsubishi_LancerEvolutionVIIF2_2002,T4_5_98_29_40_29.txt,35,3009000,true,true
+TIER_4,Mitsubishi_VoltexEvoIXRewardRecycled_2005,T4_5_91_36_32_23.txt,35,3009000,true,true
+TIER_4,Mitsubishi_VoltexEvoIXReward_2005,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Nissan_350ZF3_2003,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Nissan_350ZRocketBunnyV2Easter_2003,T4_5_98_29_40_29.txt,35,3009000,true,true
 TIER_4,Nissan_350ZRocketBunnyV2_2003,T4_5_98_29_40_29.txt,35,3009000,true,true
@@ -325,6 +327,8 @@ TIER_5,Arrinera_HussaryaReward_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_DB11RewardRecycled_2017,T5_4_128_44_43_41.txt,35,5979000,true,true
 TIER_5,AstonMartin_DB11Reward_2017,T5_4_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_DB12_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,AstonMartin_DBS770UltimateRewardRecycled_2023,T5_5_128_44_43_41.txt,35,5979000,true,true
+TIER_5,AstonMartin_DBS770UltimateReward_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_DBSGTZagato_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,AstonMartin_DBSSuperleggeraRewardRecycled_2019,T5_4_128_44_43_41.txt,35,5979000,true,true
 TIER_5,AstonMartin_DBSSuperleggeraReward_2019,T5_4_135_36_50_49.txt,35,5979000,true,true
@@ -399,6 +403,8 @@ TIER_5,Brabham_BT62Evo_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Brabham_BT62RRewardRecycled_2020,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Brabham_BT62RReward_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Brabham_BT62_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Bugatti_AtlanticConceptRewardRecycled_2015,T5_5_128_44_43_41.txt,35,5979000,true,true
+TIER_5,Bugatti_AtlanticConceptReward_2015,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Bugatti_AtlanticConcept_2015,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Bugatti_Chiron42Seconds_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Bugatti_ChironProfilee_2022,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -605,6 +611,8 @@ TIER_5,Hennessey_VenomGTSpyderRewardGold_2016,T5_5_135_36_50_49.txt,35,5979000,t
 TIER_5,Hennessey_VenomGTSpyderRewardRecycled_2016,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Hennessey_VenomGTSpyderReward_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Hennessey_VenomGT_2012,T5_4_128_44_43_41.txt,35,5979000,true,true
+TIER_5,Honda_CivicTypeRRewardRecycled_2023,T3_4_77_36_26_15.txt,35,5979000,true,true
+TIER_5,Honda_CivicTypeRReward_2023,T3_4_84_29_36_19.txt,35,5979000,true,true
 TIER_5,Honda_IndyTruck_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Honda_NSXTNR_1992,T5_5_150_39_57_54.txt,35,5979000,true,true
 TIER_5,Honda_S2000F1_2001,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -669,6 +677,7 @@ TIER_5,Lamborghini_HuracanEvoReward_2019,T5_5_135_36_50_49.txt,35,5979000,true,t
 TIER_5,Lamborghini_HuracanEvoSpyderRewardRecycled_2019,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Lamborghini_HuracanEvoSpyderReward_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_HuracanGT3EVORacecar_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Lamborghini_HuracanGT3Evo2_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_HuracanLP6104RewardRecycled_2014,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Lamborghini_HuracanLP6104Reward_2014,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_HuracanLP6104_2014,T5_5_135_39_46_50.txt,35,5979000,true,true
@@ -697,6 +706,7 @@ TIER_5,Lamborghini_RevueltoRewardRecycled_2024,T5_5_128_44_43_41.txt,35,5979000,
 TIER_5,Lamborghini_RevueltoReward_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_SC18Alston_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_SC20_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Lamborghini_SC63LMDH_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_SestoElementoCrewRecycled_2012,T5_4_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Lamborghini_SestoElementoCrew_2012,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Lamborghini_SianRoadster_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -719,6 +729,7 @@ TIER_5,Maserati_MC20CieloReward_2023,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Maserati_MC20Coupe_2021,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Maserati_MC20_2021,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Mazda_Furai_2008,T5_5_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Mazda_LBSuperSilhouetteRX7SE_1993,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Mazda_LBSuperSilhouetteRX7_1993,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Mazda_RX7F3_1993,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Mazda_RX7TNR_1993,T5_5_150_39_57_54.txt,35,5979000,true,true
@@ -812,6 +823,8 @@ TIER_5,Nissan_SilviaS15TNR_1999,T5_5_150_39_57_54.txt,35,5979000,true,true
 TIER_5,Nissan_SkylineGTRF4_2002,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Nissan_SkylineGTRR34F2_1999,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Nissan_SkylineGTRR34TNR_2002,T5_5_150_39_57_54.txt,35,5979000,true,true
+TIER_5,Nissan_ZNISMORewardRecycled_2024,T4_5_91_36_32_23.txt,35,5979000,true,true
+TIER_5,Nissan_ZNISMOReward_2024,T4_5_98_29_40_29.txt,35,5979000,true,true
 TIER_5,Noble_M500_2022,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Noble_M600CarbonSport_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Noble_M600F9_2017,T5_5_135_36_50_49.txt,35,5979000,true,true
@@ -951,9 +964,9 @@ TIER_5,WMotors_FenyrSupersportRewardRecycled_2016,T5_5_128_44_43_41.txt,35,59790
 TIER_5,WMotors_FenyrSupersportReward_2016,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,WMotors_LykanHyperSportRewardRecycled_2015,T5_4_128_44_43_41.txt,35,5979000,true,true
 TIER_5,WMotors_LykanHyperSportReward_2015,T5_4_135_36_50_49.txt,35,5979000,true,true
+TIER_5,Zenvo_AuroraTur_2024,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Zenvo_TS1GTRewardRecycled_2018,T5_5_128_44_43_41.txt,35,5979000,true,true
 TIER_5,Zenvo_TS1GTReward_2018,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Zenvo_TS1GT_2018,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Zenvo_TSRSGold_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
 TIER_5,Zenvo_TSRS_2019,T5_5_135_36_50_49.txt,35,5979000,true,true
-TIER_5,Zenvo_TSRS_2020,T5_5_135_36_50_49.txt,35,5979000,true,true
