@@ -1,0 +1,34 @@
+  "picl": [
+    "eRewards"
+  ],
+  "playinbitms": [
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 38,
+        "name": "",
+        "partType": 7,
+        "partGrade": <rarity>,
+        "gachaConfig": -1,
+        "amount": <amount>,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 0
+      }
+    }
+  ],
+  
+  
+==========USAGE==========
+  <rarity>:
+  1 - green
+  2 - blue
+  3 - red
+  
+  <amount>:
+  *Don't forget about the limit of universal parts!
+  green: 8 max
+  blue: 8 max
+  red: 8 max

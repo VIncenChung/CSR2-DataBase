@@ -1,0 +1,25 @@
+  "picl": [
+    "eRewards"
+  ],
+  "playinbitms": [
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 45,
+        "name": "<namebanner>",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 1
+      }
+    }
+  ],
+  
+  
+  ==========USAGE==========
+  <namebanner> examples:
+  Bg_hoonigan_1
+  Bg_season11

@@ -1,0 +1,40 @@
+  "picl": [
+    "eRewards"
+  ],
+  "playinbitms": [
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": <AMOUNT>,
+        "ConsumableBoostId": "",
+        "UpgradeStage": <STAGE>
+      }
+    }
+  ],
+  
+  
+  ==========USAGE==========
+  <AMOUNT>:
+  *Don't forget about the limit of universal parts!
+  stage 1: 9 max
+  stage 2: 9 max
+  stage 3: 9 max
+  stage 4: 9 max
+  stage 5: 9 max
+  stage 6: 3 max
+  
+  <STAGE>:
+  1 - stage 1
+  2 - stage 2
+  3 - stage 3
+  4 - stage 4
+  5 - stage 5
+  6 - stage 6

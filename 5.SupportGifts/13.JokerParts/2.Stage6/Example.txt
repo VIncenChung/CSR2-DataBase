@@ -1,0 +1,106 @@
+  "picl": [
+    "eRewards",
+    "eRewards",
+    "eRewards",
+    "eRewards",
+    "eRewards",
+    "eRewards"
+  ],
+  "playinbitms": [
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 9,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 1
+      }
+    },
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 9,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 2
+      }
+    },
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 9,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 3
+      }
+    },
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 9,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 4
+      }
+    },
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 9,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 5
+      }
+    },
+    {
+      "reason": "TEXT_TAG_CS_COMPENSATION",
+      "ttl": 0,
+      "id": "",
+      "rank": 0,
+      "CSR2ApplyableReward": {
+        "rewardType": 40,
+        "name": "",
+        "partType": 7,
+        "partGrade": 0,
+        "gachaConfig": -1,
+        "amount": 3,
+        "ConsumableBoostId": "",
+        "UpgradeStage": 6
+      }
+    }
+  ],
