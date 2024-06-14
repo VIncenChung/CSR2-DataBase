@@ -44,4 +44,6 @@
 	SeasonPassRPBoost = 43
     ProfileBannerForeground = 44
     ProfileBannerBackground = 45
-    MaxRewardTypes = 46
+    CollectionPoints = 46
+	CarCredits = 47
+    MaxRewardTypes = 48

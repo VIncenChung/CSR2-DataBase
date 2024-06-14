@@ -38,6 +38,7 @@ id_kimera
 id_koenigsegg
 id_ktm
 id_lamborghini
+id_lancia
 id_landrover
 id_lexus
 id_localmotor
@@ -59,6 +60,7 @@ id_placeholder
 id_plymouth
 id_pontiac
 id_porsche
+id_radford
 id_ram
 id_rimac
 id_saleen
