@@ -553,12 +553,12 @@
         }
       ],
       "tscs": {
-        "BODYKIT": 3,
+        "BODYKIT": 0,
         "WHEELS": 0,
-        "WING": 1,
-        "BOOST_COLOR": 1000006,
-        "HOOD": 1,
-        "RIMS": 1000349,
+        "WING": 0,
+        "BOOST_COLOR": 0,
+        "HOOD": 0,
+        "RIMS": 0,
         "TIRE": 0
       },
       "fpul": 4,

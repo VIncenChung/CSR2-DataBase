@@ -533,7 +533,7 @@
           ]
         }
       ],
-      "fpin": 13,
+      "fpin": 0,
       "rpst": [
         {
           "rvlo": 0,
@@ -553,17 +553,17 @@
         }
       ],
       "tscs": {
-        "BODYKIT": 3,
+        "BODYKIT": 0,
         "WHEELS": 0,
-        "WING": 1,
-        "BOOST_COLOR": 1000006,
-        "HOOD": 1,
-        "RIMS": 1000349,
+        "WING": 0,
+        "BOOST_COLOR": 0,
+        "HOOD": 0,
+        "RIMS": 0,
         "TIRE": 0
       },
-      "fpul": 4,
-      "rsup": 3,
-      "rpbb": 18,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
       "rncu": false,
       "fcu": true,
       "pncu": true,
@@ -590,6 +590,6 @@
       "whbn": "",
       "tlad": 0.0,
       "need": false,
-      "cmlv": 35,
-      "isra": true
+      "cmlv": 0,
+      "isra": false
     }
