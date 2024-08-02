@@ -133,3 +133,6 @@ Due to the amount of files this project has it can be quite hard to find the fil
 **Update 5.1.0 OTA1**
 ![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.1.0_OTA1.png)
 <br>
+**Update 5.1.0 OTA2**
+![](https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/main/CSR2%20Update%20Charts/5.1.0_OTA2.png)
+<br>
