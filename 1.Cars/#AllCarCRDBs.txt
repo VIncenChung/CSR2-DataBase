@@ -944,6 +944,7 @@ Subaru_BRZtSTNR_2020
 Subaru_ImprezaWRXF4_2009
 Subaru_ImprezaWRXSTI_2014
 Subaru_VarisImprezaWRXSTI_2014
+Subaru_VarisWRXSTICALM_2018
 Subaru_WRXSTIF8_2018
 Subaru_WRXSTIGobstopperII_2015
 Subaru_WRXSTITNR_2018
@@ -984,6 +985,8 @@ WMotors_FenyrSupersportRewardRecycled_2016
 WMotors_FenyrSupersportReward_2016
 WMotors_LykanHyperSportRewardRecycled_2015
 WMotors_LykanHyperSportReward_2015
+Zenvo_AuroraTurRewardRecycled_2024
+Zenvo_AuroraTurReward_2024
 Zenvo_AuroraTur_2024
 Zenvo_TS1GTRewardRecycled_2018
 Zenvo_TS1GTReward_2018
