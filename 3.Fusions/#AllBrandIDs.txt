@@ -5,6 +5,7 @@ id_alpine
 id_amc
 id_apollo
 id_arrinera
+id_aspark
 id_astonmartin
 id_atsautomobili
 id_audi

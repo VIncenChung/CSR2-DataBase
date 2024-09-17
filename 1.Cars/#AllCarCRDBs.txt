@@ -21,6 +21,7 @@ Apollo_IntensaEmozioneOrangeDragon_2019
 Apollo_IntensaEmozione_2019
 Arrinera_HussaryaRewardRecycled_2020
 Arrinera_HussaryaReward_2020
+Aspark_Owl_2021
 AstonMartin_DB11RewardRecycled_2017
 AstonMartin_DB11Reward_2017
 AstonMartin_DB12VolanteRewardRecycled_2024
@@ -407,6 +408,7 @@ Ford_GTElite_2017
 Ford_GTHeritageEdition_2005
 Ford_GTHeritageEdition_2017
 Ford_GTLeMansRacecar_2016
+Ford_GTMk4_2024
 Ford_GTRewardRecycled66_2017
 Ford_GTRewardRecycled_2017
 Ford_GTReward_2017
@@ -418,6 +420,7 @@ Ford_MustangDarkHorse_2024
 Ford_MustangF3_1967
 Ford_MustangFoxbodyF9_1987
 Ford_MustangGT350F9_2016
+Ford_MustangGTD_2025
 Ford_MustangGTFastbackTNR_2018
 Ford_MustangGTHPE750Silver_2015
 Ford_MustangGTHoonicornV1_1965
@@ -488,6 +491,7 @@ Hyundai_ElantraNRewardRecycled_2022
 Hyundai_ElantraNReward_2022
 Hyundai_Ioniq5NRewardRecycled_2023
 Hyundai_Ioniq5NReward_2023
+Hyundai_NVision74Concept_2023
 Hyundai_VelosterTurboRSpecARK_2014
 Hyundai_VelosterTurboRSpecCrew_2014
 Hyundai_VelosterTurboRSpec_2014
@@ -580,6 +584,7 @@ Lamborghini_HuracanTecnicaReward_2023
 Lamborghini_IVRewardRecycled_2024
 Lamborghini_IVReward_2024
 Lamborghini_Invencible_2023
+Lamborghini_LB634_2024
 Lamborghini_LBAventadorLP7004RewardGold_2011
 Lamborghini_LBAventadorLP7004RewardRecycled_2011
 Lamborghini_LBAventadorLP7004RewardVIP_2011
@@ -675,6 +680,8 @@ McLaren_765LTSpiderReward_2021
 McLaren_765LT_2021
 McLaren_ArturaRewardRecycled_2022
 McLaren_ArturaReward_2022
+McLaren_ArturaSpiderRewardRecycled_2024
+McLaren_ArturaSpiderReward_2024
 McLaren_ElvaGOSH_2021
 McLaren_ElvaGold_2021
 McLaren_ElvaMSO_2021
@@ -698,6 +705,7 @@ McLaren_SLR722EditionCrew_2007
 McLaren_SLR722EditionRewardRecycled_2006
 McLaren_SLR722EditionReward_2006
 McLaren_SLR722SRoadster_2009
+McLaren_Sabre_2022
 McLaren_SennaCarbon_2018
 McLaren_SennaGOSH_2018
 McLaren_SennaGTRLM_2020
