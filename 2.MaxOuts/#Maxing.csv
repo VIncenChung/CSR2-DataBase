@@ -234,6 +234,8 @@ TIER_4,Jeep_GladiatorReward_2019,T4_4_98_36_39_23.txt,35,3009000,true
 TIER_4,Jeep_GrandCherokeeTrackhawkF9_2018,T4_4_98_29_40_29.txt,35,3009000,true
 TIER_4,Jeep_GrandCherokeeTrackhawk_2018,T4_4_98_36_39_23.txt,35,3009000,true
 TIER_4,Lamborghini_CountachClassic_1988,T4_5_98_32_39_27.txt,35,3009000,true
+TIER_4,Lamborghini_LBCountachLPRewardRecycled_1988,T4_5_91_36_32_23.txt,35,5979000,true
+TIER_4,Lamborghini_LBCountachLPReward_1988,T4_5_98_36_39_23.txt,35,5979000,true
 TIER_4,Lamborghini_UrusPHEVRewardRecycled_2024,T4_4_91_36_32_23.txt,35,3009000,true
 TIER_4,Lamborghini_UrusPHEVReward_2024,T4_4_98_29_40_29.txt,35,3009000,true
 TIER_4,Lamborghini_UrusPerformanteRewardRecycled_2023,T4_5_91_36_32_23.txt,35,3009000,true
@@ -475,6 +477,7 @@ TIER_5,Chevrolet_DutchboysCamaroMS_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_EddiesCorvetteC2_1963,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_HSCustomsCamaroRewardRecycled_2016,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Chevrolet_HSCustomsCamaroReward_2016,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_HSCustomsChevelle_1968,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_KellySonBelAir_1957,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_LMCorvetteC8_2020,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_MonteCarloRaceCarF9_1995,T5_5_135_36_50_49.txt,35,5979000,true
@@ -489,6 +492,7 @@ TIER_5,Chevrolet_RingbrothersCamaroUSA_1969,T5_5_135_36_50_49.txt,35,5979000,tru
 TIER_5,Chevrolet_RingbrothersCamaro_1969,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_RingbrothersChevelle_1966,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Chevrolet_SickSecondsCamaroSS_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Chevrolet_WeaverCustoms3100_1949,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21CVMax_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Czinger_21C_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Devel_Sixteen_2022,T5_5_135_36_50_49.txt,35,5979000,true
@@ -513,6 +517,8 @@ TIER_5,Dodge_HPE1200DemonGold_2018,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,Dodge_HPE1200Demon_2018,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_HavocChallenger_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_RingbrosChargerCAPTIV_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Dodge_SRTDemon170RewardRecycled_2023,T5_5_128_44_43_41,35,5979000,true
+TIER_5,Dodge_SRTDemon170Reward_2023,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ViperACRExtremeAeroPackage_2016,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Dodge_ViperACRVoodooII_2016,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Dodge_ViperGTS_1996,T5_5_135_36_50_49.txt,35,5979000,true
@@ -606,6 +612,7 @@ TIER_5,Ford_MustangShelbyGT500RewardRecycled_2019,T5_5_128_44_43_41.txt,35,59790
 TIER_5,Ford_MustangShelbyGT500Reward_2019,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_ROUSHStage3Mustang_2019,T5_4_128_44_43_41.txt,35,5979000,true
 TIER_5,Ford_RingbrothersMustangMach1_1969,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,Ford_RuffianMustang_1970,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_Supervan4_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_WeaverCustomsModelAElite_1931,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Ford_WeaverCustomsModelALB_1931,T5_5_135_36_50_49.txt,35,5979000,true
@@ -779,6 +786,8 @@ TIER_5,McLaren_ArturaSpiderReward_2024,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,McLaren_ElvaGOSH_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,McLaren_ElvaGold_2021,T5_5_128_44_43_41.txt,35,5979000,true
 TIER_5,McLaren_ElvaMSO_2021,T5_5_135_36_50_49.txt,35,5979000,true
+TIER_5,McLaren_ElvaWindscreenRewardRecycled_2021,T5_5_128_44_43_41,35,5979000,true
+TIER_5,McLaren_ElvaWindscreenReward_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,McLaren_Elva_2021,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,McLaren_F1GT_1997,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,McLaren_F1LM_1995,T5_5_135_36_50_49.txt,35,5979000,true
@@ -849,6 +858,7 @@ TIER_5,Nissan_SkylineGTRR34F2_1999,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Nissan_SkylineGTRR34TNR_2002,T5_5_150_39_57_54.txt,35,5979000,true
 TIER_5,Nissan_ZNISMORewardRecycled_2024,T4_5_91_36_32_23.txt,35,5979000,true
 TIER_5,Nissan_ZNISMOReward_2024,T4_5_98_29_40_29.txt,35,5979000,true
+TIER_5,Nissan_ZTNR_2023,T5_5_150_39_57_54.txt,35,5979000,true
 TIER_5,Noble_M500_2022,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Noble_M600CarbonSport_2017,T5_5_135_36_50_49.txt,35,5979000,true
 TIER_5,Noble_M600F9_2017,T5_5_135_36_50_49.txt,35,5979000,true
