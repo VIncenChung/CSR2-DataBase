@@ -1,0 +1,6 @@
+  "ecdm": {
+    "DiscountGroup": [
+      Percentage,
+      UnixTimeStampExpiryDate
+    ]
+  }

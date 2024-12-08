@@ -1,7 +1,7 @@
 MonoBehaviour Base
 	PPtr<GameObject> m_GameObject
 		int m_FileID = 0
-		SInt64 m_PathID = 2477101417514370236
+		SInt64 m_PathID = -4152095845205840671
 	UInt8 m_Enabled = 1
 	PPtr<MonoScript> m_Script
 		int m_FileID = 0
@@ -11,7 +11,7 @@ MonoBehaviour Base
 	string FlaresParentBoneOverride = ""
 	vector CarPaintIDs
 		Array Array
-		int size = 15
+		int size = 14
 			[0]
 			int data = 1187
 			[1]
@@ -35,12 +35,10 @@ MonoBehaviour Base
 			[10]
 			int data = 1770
 			[11]
-			int data = 1187
-			[12]
 			int data = 1769
-			[13]
+			[12]
 			int data = 1768
-			[14]
+			[13]
 			int data = 1767
 	vector CarLiveryZonesSetIDs
 		Array Array

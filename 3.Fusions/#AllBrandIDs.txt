@@ -5,6 +5,7 @@ id_alpine
 id_amc
 id_apollo
 id_arrinera
+id_aspark
 id_astonmartin
 id_atsautomobili
 id_audi
@@ -13,6 +14,7 @@ id_bentley
 id_bmw
 id_brabham
 id_bugatti
+id_buick
 id_cadillac
 id_chevrolet
 id_czinger
@@ -37,6 +39,7 @@ id_kimera
 id_koenigsegg
 id_ktm
 id_lamborghini
+id_lancia
 id_landrover
 id_lexus
 id_localmotor
@@ -45,10 +48,12 @@ id_maserati
 id_mazda
 id_mazzanti
 id_mclaren
+id_mcmurtry
 id_mercedes
 id_mercedesamgpetronas
 id_mini
 id_mitsubishi
+id_nilu27
 id_nissan
 id_noble
 id_pagani
@@ -57,6 +62,7 @@ id_placeholder
 id_plymouth
 id_pontiac
 id_porsche
+id_radford
 id_ram
 id_rimac
 id_saleen

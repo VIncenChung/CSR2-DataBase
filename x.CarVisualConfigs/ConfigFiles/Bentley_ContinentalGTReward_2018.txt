@@ -1,7 +1,7 @@
 MonoBehaviour Base
 	PPtr<GameObject> m_GameObject
 		int m_FileID = 0
-		SInt64 m_PathID = -2859322920164798234
+		SInt64 m_PathID = 7346219103644974810
 	UInt8 m_Enabled = 1
 	PPtr<MonoScript> m_Script
 		int m_FileID = 0
@@ -50,4 +50,4 @@ MonoBehaviour Base
 				int LiveryZonesSetID = 2147483647
 				int LiveryID = 2147483647
 				string WheelBundleName = "Wheel1A_3D"
-	int lockPaintsToIndex = 1
+	int lockPaintsToIndex = 0

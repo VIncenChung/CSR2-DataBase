@@ -1,7 +1,7 @@
 MonoBehaviour Base
 	PPtr<GameObject> m_GameObject
 		int m_FileID = 0
-		SInt64 m_PathID = -4641299607540642211
+		SInt64 m_PathID = -6149488736385359357
 	UInt8 m_Enabled = 1
 	PPtr<MonoScript> m_Script
 		int m_FileID = 0
@@ -19,7 +19,7 @@ MonoBehaviour Base
 			[2]
 			int data = 1691
 			[3]
-			int data = 269
+			int data = 1692
 	vector CarLiveryZonesSetIDs
 		Array Array
 		int size = 1
