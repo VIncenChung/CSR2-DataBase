@@ -53,6 +53,8 @@ AstonMartin_ValkyrieSpirit_2020
 AstonMartin_ValkyrieTrackPackAMR_2020
 AstonMartin_ValkyrieTrackPack_2020
 AstonMartin_Valkyrie_2020
+AstonMartin_ValourRewardRecycled_2024
+AstonMartin_ValourReward_2024
 AstonMartin_Valour_2024
 AstonMartin_VanquishZagatoRewardRecycled_2017
 AstonMartin_VanquishZagatoReward_2017
@@ -124,6 +126,7 @@ BMW_M3TouringRewardRecycled_2022
 BMW_M3TouringReward_2022
 BMW_M4CSLRewardRecycled_2022
 BMW_M4CSLReward_2022
+BMW_M4CompetitionG82TNR_2021
 BMW_M4CoupeMPerformance_2021
 BMW_M4CoupeRewardRecycled_2021
 BMW_M4CoupeReward_2021
@@ -576,6 +579,7 @@ Lamborghini_DiabloSV_1997
 Lamborghini_EssenzaSCV12Monterey_2021
 Lamborghini_EssenzaSCV12Nero_2021
 Lamborghini_EssenzaSCV12_2021
+Lamborghini_FewOffAdPersonam_2020
 Lamborghini_FewOff_2020
 Lamborghini_HuracanEvoRewardRecycled_2019
 Lamborghini_HuracanEvoReward_2019
@@ -922,6 +926,7 @@ Porsche_918SpyderReward_2015
 Porsche_935Salzburg_2019
 Porsche_935_2019
 Porsche_959_1988
+Porsche_Bisimoto935K3V_1984
 Porsche_Canepa959_1988
 Porsche_CarreraGTClassic_2003
 Porsche_CayenneTurboGTRewardRecycled_2022
@@ -947,6 +952,8 @@ Porsche_TaycanTurboSReward_2021
 Porsche_VorsteinerGT4VCS_2016
 RAM_1500TRX_2021
 Radford_Type62GOSH_2021
+Radford_Type62RewardRecycled_2021
+Radford_Type62Reward_2021
 Rimac_NeveraReward_2022
 Rimac_NeveraRewardrecycled_2022
 Rimac_Nevera_2021
