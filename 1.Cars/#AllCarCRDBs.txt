@@ -97,6 +97,8 @@ Audi_RS3SedanReward_2023
 Audi_RS5CoupeRewardRecycled_2020
 Audi_RS5CoupeReward_2020
 Audi_RS5Coupe_2014
+Audi_RS6AvantGTRewardRecycled_2024
+Audi_RS6AvantGTReward_2024
 Audi_RS6AvantRewardRecycled_2020
 Audi_RS6AvantReward_2020
 Audi_RS7SportbackRewardRecycled_2020
@@ -204,6 +206,7 @@ Bugatti_EB110HomageLB_2019
 Bugatti_EB110HomageMS_2019
 Bugatti_EB110SSClassic_1992
 Bugatti_LaVoitureNoire_2019
+Bugatti_Tourbillon_2026
 Bugatti_VeyronGrandSportVitesseAndroid_2012
 Bugatti_VeyronGrandSportVitesseWRE_2012
 Bugatti_VeyronGrandSportVitesse_2012
@@ -284,6 +287,7 @@ Chevrolet_RingbrothersCamaroUSA_1969
 Chevrolet_RingbrothersCamaro_1969
 Chevrolet_RingbrothersChevelle_1966
 Chevrolet_RingbrothersPickUp_1948
+Chevrolet_RoadsterShopCamaro_1970
 Chevrolet_SickSecondsCamaroSS_1969
 Chevrolet_WeaverCustoms3100_1949
 Czinger_21CVMax_2023
@@ -317,6 +321,7 @@ Dodge_HPE1200DemonGold_2018
 Dodge_HPE1200Demon_2018
 Dodge_HavocChallenger_1970
 Dodge_RingbrosChargerCAPTIV_1969
+Dodge_RingbrothersChargerTUSK_1969
 Dodge_SRTDemon170RewardRecycled_2023
 Dodge_SRTDemon170Reward_2023
 Dodge_ViperACRCrew_2016
@@ -860,6 +865,7 @@ Pagani_ZondaCinqueRoadsterReward_2010
 Pagani_ZondaCinqueRoadster_2010
 Pagani_ZondaREvoBarchetta_2021
 Pagani_ZondaRevolucion_2013
+Pininfarina_B95_2025
 Pininfarina_BattistaNinoFarina_2023
 Pininfarina_BattistaRewardRecycled_2022
 Pininfarina_BattistaReward_2022
@@ -1031,6 +1037,8 @@ Zenvo_AuroraTur_2024
 Zenvo_TS1GTRewardRecycled_2018
 Zenvo_TS1GTReward_2018
 Zenvo_TS1GT_2018
+Zenvo_TSRGTRewardRecycled_2023
+Zenvo_TSRGTReward_2023
 Zenvo_TSRSGold_2020
 Zenvo_TSRS_2019
 Zenvo_TSRS_2020
