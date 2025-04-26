@@ -1,15 +1,11 @@
 {
-      "unid": 7148,
-      "crdb": "Acura_IntegraTypeRDB8F1_1995",
+      "unid": 7207,
+      "crdb": "Dodge_ChargerDaytonaScatPack_2025",
       "awar": false,
       "grsp": [
-        3.23,
-        2.105,
-        1.458,
-        1.107,
-        0.848
+        1.0
       ],
-      "fidr": 3.45,
+      "fidr": 4.65,
       "nlpr": 0.5,
       "tafr": 0.5,
       "titp": 0.5,
@@ -18,12 +14,12 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
-      "apiid": 1823,
-      "oriid": 1823,
-      "apcid": 9,
-      "orcid": 9,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 1733,
+      "oriid": 1733,
+      "apcid": 0,
+      "orcid": 0,
       "apcns": 0,
       "appns": 0,
       "opcns": 0,
@@ -34,9 +30,9 @@
       "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Acura_IntegraTypeRDB8F1_1995_Wheel1A_3D"
+        "Dodge_ChargerDaytonaScatPack_2025_Wheel1A_3D"
       ],
-      "opcn": "Acura_IntegraTypeRDB8F1_1995_Wheel1A_3D",
+      "opcn": "Dodge_ChargerDaytonaScatPack_2025_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -152,7 +148,7 @@
           ]
         }
       ],
-      "fpin": 3,
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -189,16 +185,16 @@
       "cncu": false,
       "cppi": 603,
       "cepi": 0,
-      "tdut": 16.056,
-      "tdtt": 16.056,
-      "ttqm": 10.26,
-      "tthm": 16.056,
-      "tt60": 2.554,
-      "tt1h": 5.702,
-      "spqm": 138.922,
-      "sphm": 167.472,
+      "tdut": 16.049,
+      "tdtt": 16.049,
+      "ttqm": 11.0,
+      "tthm": 16.049,
+      "tt60": 3.886,
+      "tt1h": 6.569,
+      "spqm": 155.015,
+      "sphm": 197.321,
       "ctie": "TIER_5",
-      "csrc": "IAPSpecial",
+      "csrc": "Gacha",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -206,9 +202,9 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 2351,
-      "inid": 1823,
-      "caid": 9,
+      "paid": 1647,
+      "inid": 1733,
+      "caid": 0,
       "lzsid": -2147483648,
       "livid": -2147483648,
       "whbn": "Wheel1A_3D",
