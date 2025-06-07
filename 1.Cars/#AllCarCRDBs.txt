@@ -64,6 +64,7 @@ AstonMartin_VanquishZagatoRewardRecycled_2017
 AstonMartin_VanquishZagatoReward_2017
 AstonMartin_VanquishZagatoSB_2017
 AstonMartin_Vanquish_2014
+AstonMartin_Vanquish_2025
 AstonMartin_VantageGTE_2020
 AstonMartin_VantageRoadsterRewardRecycled_2021
 AstonMartin_VantageRoadsterReward_2021
@@ -281,6 +282,8 @@ Chevrolet_HSCustomsCamaroReward_2016
 Chevrolet_HSCustomsChevelle_1968
 Chevrolet_KellySonBelAir_1957
 Chevrolet_LMCorvetteC8_2020
+Chevrolet_LMCorvetteZ06RewardRecycled_2023
+Chevrolet_LMCorvetteZ06Reward_2023
 Chevrolet_MonteCarloRaceCarF9_1995
 Chevrolet_NASCARCamaroZL1JE_2020
 Chevrolet_NASCARCamaroZL1_2020
@@ -349,6 +352,7 @@ Donkervoort_D8GTOReward_2015
 Ferrari_12CilindriRewardRecycled_2024
 Ferrari_12CilindriReward_2024
 Ferrari_250GTOClassic_1962
+Ferrari_296GTBAssettoFiorano_2022
 Ferrari_296GTB_2022
 Ferrari_296GTSRewardRecycled_2023
 Ferrari_296GTSReward_2023
@@ -417,6 +421,7 @@ Ferrari_SF90StradaleGold_2020
 Ferrari_SF90Stradale_2020
 Ferrari_SF90XXStradale_2024
 FnF_FlipCar_2013
+FnF_SupraMKIVF2_1994
 Ford_Durty30Gold_2016
 Ford_Durty30_2016
 Ford_EscortMKIF6_1970
@@ -505,6 +510,7 @@ Honda_Civic15VTECCrew_1994
 Honda_CivicTypeRElite_2017
 Honda_CivicTypeRRewardRecycled_2023
 Honda_CivicTypeRReward_2023
+Honda_CivicTypeRTNR_2017
 Honda_CivicTypeRVaris_2017
 Honda_CivicTypeR_2017
 Honda_IndyTruck_2017
@@ -771,6 +777,8 @@ McLaren_Vorsteiner720SReward_2018
 McMurtry_Speirling_2022
 MercedesAMGF1_W11VB_2020
 MercedesAMGF1_W11_2020
+MercedesAMG_CLAEVRewardRecycled_2025
+MercedesAMG_CLAEVReward_2025
 MercedesAMG_G63SUVRewardRecycled_2020
 MercedesAMG_G63SUVReward_2020
 MercedesAMG_GT3_2020
@@ -870,6 +878,7 @@ Pagani_HuayraBCRoadsterPB_2019
 Pagani_HuayraBCRoadster_2019
 Pagani_HuayraCodalunga_2022
 Pagani_HuayraElite_2014
+Pagani_HuayraREvo_2024
 Pagani_HuayraR_2021
 Pagani_HuayraRoadsterRewardRecycled_2017
 Pagani_HuayraRoadsterReward_2017
@@ -923,6 +932,7 @@ Porsche_911GT2RSVIP_2017
 Porsche_911GT2RS_2017
 Porsche_911GT2_1993
 Porsche_911GT39922_2025
+Porsche_911GT3R992_2022
 Porsche_911GT3RRennsport_2023
 Porsche_911GT3RS992Tribute_2023
 Porsche_911GT3RS992_2023
@@ -1021,6 +1031,8 @@ Spyker_C8PreliatorSpyder_2017
 Subaru_BRZF8_2013
 Subaru_BRZRocketBunnyVIP_2013
 Subaru_BRZRocketBunny_2013
+Subaru_BRZtSRewardRecycled_2024
+Subaru_BRZtSReward_2024
 Subaru_BRZtSTNR_2020
 Subaru_ImprezaWRXF4_2009
 Subaru_ImprezaWRXSTI_2014
