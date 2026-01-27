@@ -1,5 +1,4 @@
-,
-    {
+  {
       "upma": "id_toyota",
       "upnn": AMOUNT,
       "upfb": true,
@@ -90,7 +89,7 @@
         "erpm": 0
       }
     },
-    100,
+    AMOUNT,
     {
       "upma": "id_toyota",
       "upnn": AMOUNT,
