@@ -1,23 +1,24 @@
 {
-      "unid": 8004,
-      "crdb": "Lamborghini_Reventon_2008",
+      "unid": 7131,
+      "crdb": "Chevrolet_LostAngelsCamaro_1970",
       "grsp": [
-        3.091,
-        2.105,
-        1.565,
-        1.241,
-        1.065,
-        0.939
+        2.87,
+        1.89,
+        1.28,
+        1.0,
+        0.64
       ],
-      "fidr": 2.88,
-      "apiid": 2035,
-      "oriid": 2035,
+      "fidr": 3.22,
+      "apiid": 2074,
+      "oriid": 2074,
       "apcid": 5,
       "orcid": 5,
+      "aplzsid": -1,
+      "orlzsid": -1,
       "apcn": [
-        "Lamborghini_Reventon_2008_Wheel1A_3D"
+        "Chevrolet_LostAngelsCamaro_1970_Wheel1A_3D"
       ],
-      "opcn": "Lamborghini_Reventon_2008_Wheel1A_3D",
+      "opcn": "Chevrolet_LostAngelsCamaro_1970_Wheel1A_3D",
       "upst": [
         {
           "lvlo": 6,
@@ -505,13 +506,19 @@
       ],
       "fpin": 3,
       "cppi": 603,
-      "ttqm": 10.083,
-      "tthm": 16.065,
+      "ttqm": 10.332,
+      "tthm": 16.058,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
+      "paid": 2744,
+      "inid": 2074,
+      "caid": 5,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D",
       "esup": true,
       "nuub": 35,
       "msou": 5979000

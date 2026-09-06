@@ -1,21 +1,24 @@
 {
-      "unid": 8001,
-      "crdb": "Apollo_S_2008",
+      "unid": 7131,
+      "crdb": "Chevrolet_LostAngelsCamaro_1970",
       "grsp": [
         2.87,
-        1.77,
-        1.26,
+        1.89,
+        1.28,
         1.0,
-        0.83,
-        0.71
+        0.64
       ],
-      "fidr": 2.88,
-      "apiid": 1840,
-      "oriid": 1840,
+      "fidr": 3.22,
+      "apiid": 2074,
+      "oriid": 2074,
+      "apcid": 5,
+      "orcid": 5,
+      "aplzsid": -1,
+      "orlzsid": -1,
       "apcn": [
-        "Apollo_S_2008_Wheel1A_3D"
+        "Chevrolet_LostAngelsCamaro_1970_Wheel1A_3D"
       ],
-      "opcn": "Apollo_S_2008_Wheel1A_3D",
+      "opcn": "Chevrolet_LostAngelsCamaro_1970_Wheel1A_3D",
       "upst": [
         {
           "lvls": [
@@ -111,17 +114,17 @@
       ],
       "fpin": 3,
       "cppi": 603,
-      "ttqm": 10.335,
-      "tthm": 16.048,
+      "ttqm": 10.332,
+      "tthm": 16.058,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "cpf": false
       },
-      "paid": 2685,
-      "inid": 1840,
-      "caid": 0,
-      "lzsid": -2147483648,
+      "paid": 2744,
+      "inid": 2074,
+      "caid": 5,
+      "lzsid": -1,
       "livid": -2147483648,
       "whbn": "Wheel1A_3D"
     }
